@@ -26,6 +26,7 @@
 
    <?php
                 echo "Nhánh alpha";
+                echo "Nhánh alpha 2";
     ?>
    </body>
 </html>
